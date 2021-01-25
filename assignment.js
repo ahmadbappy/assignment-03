@@ -1,6 +1,8 @@
-//Assignment 03
+// Assignment 03
+// github: https://github.com/ahmadbappy/assignment-03
 //--------***---------
 
+// 01
 // Kilometer To Meter Convertion ---
 
 function kilometerToMeter(kilometer) {
@@ -17,6 +19,7 @@ function kilometerToMeter(kilometer) {
 // ----------------------------------------- ***** --------------------------------------------
 
 
+//02
 // Budget Calculator --
 
 const clockPrice = 50,
@@ -45,6 +48,7 @@ function budgetCalculator(clockAmount, mobileAmount, laptopAmount) {
 // ----------------------------------------- ***** --------------------------------------------
 
 
+// 03
 // Hotel-Rent Calculation --- 
 
 const rent = 100,
@@ -78,6 +82,7 @@ function hotelCost(personStayed) {
 // ----------------------------------------- ***** --------------------------------------------
 
 
+// 04
 //Friend Finder ---
 
 let hugeName, availableName;
